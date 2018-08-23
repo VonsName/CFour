@@ -12,7 +12,7 @@
  *函数结束内存释放
  *指针变量和他所指向的内存空间是两个不同的概念
  */
-char *getMem()
+char *getMem09()
 {
 	char buf[64]="hello";
 	//strcpy(buf, "hello");
