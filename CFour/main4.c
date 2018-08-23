@@ -135,7 +135,8 @@ int main(int argc,char *argv[])
 
 	char *p2 = NULL;
 	p2=	(char *)malloc(strlen(p)/2+1);
-	//printf("p2strlen=%d\n", strlen(p2));//这里使用 strlen(p2)是错误的做法,这个时候它只是分配了内存
+	//printf("p2strlen=%d\n", strlen(p2));//段错误!!!这里使用 strlen(p2)是错误的做法,
+																//这个时候它只是分配了内存
 																//具体原因不明;
 	memset(p2, 0, strlen(p)/2+1);
 
