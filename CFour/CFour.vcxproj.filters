@@ -30,5 +30,23 @@
     <ClCompile Include="main4.c">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="main5.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="main6.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="main7.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="main8.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="main9.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="main10.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

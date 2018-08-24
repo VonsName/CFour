@@ -90,7 +90,7 @@ int numcout(char *src, char *des, int *count)
 	return tmpCount;
 }
 
-int main(int argc,char *argv[])
+int main45(int argc,char *argv[])
 {
 	int counter = 0;
 	char *str = "1abd123abd451bca";
